@@ -94,7 +94,7 @@
 
 					cartStyle				: "div",
 					cartColumns			: [
-						{ attr: "name", label: "Name" },
+						{ attr: "name", label: "" },
 					                                 ],
 
 					excludeFromCheckout	: ['thumb'],
